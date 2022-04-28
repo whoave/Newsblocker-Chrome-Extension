@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "Haber Aratmadım!",
+        "description": "Google aramalarından haber sonuçları kaldıran basit bir eklenticik!."
+    },
+    "appDesc": {
+        "message": "google aramalarından haber sonuçlarını kaldırarak daha açık bir sonuç sunar.",
+        "description": "basitçe bunu yapar."
+    }
+}

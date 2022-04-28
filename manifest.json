@@ -1,0 +1,22 @@
+{
+    "name": "Haber Aratmadım!",
+    "description": "Google aramalarından haber sonuçları kaldıran basit bir eklenticik!",
+    "default_locale": "tr",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "tabs",
+        "storage"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_icon": "images/on.png"
+    },
+    "icons": {
+        "16": "images/on.png",
+        "48": "images/on.png",
+        "128": "images/on.png"
+    }
+}
