@@ -1,6 +1,6 @@
 {
     "name": "Haber Aratmadım!",
-    "description": "Google arama sonuçlarından haber sitelerine ait arama sonuçlarını gizlemek için sorguyu manipüle eder ve arama sonuçlarını temizler..",
+    "description": "Google arama sonuçlarından haber sitelerine ait arama sonuçlarını gizlemek için sorguyu manipüle eder ve arama sonuçlarını temizler",
     "default_locale": "tr",
     "version": "1.0",
     "manifest_version": 3,
