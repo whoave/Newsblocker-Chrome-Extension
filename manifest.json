@@ -1,6 +1,6 @@
 {
     "name": "Haber Aratmadım!",
-    "description": "Google arama sonuçlarından haber sitelerine ait arama sonuçlarını kaldırmak için arama sorgularında otomatik olarak manüpülasyon yapan ve arama sonuçlarını temizleyen bir eklenti. Haber sitelerinin sonuçlarını görmek istemeyenler için.!",
+    "description": "Google arama sonuçlarından haber sitelerine ait arama sonuçlarını gizlemek için sorguyu manipüle eder ve arama sonuçlarını temizler..",
     "default_locale": "tr",
     "version": "1.0",
     "manifest_version": 3,
